@@ -95,12 +95,18 @@ Return rate is relatively low (3%), but nearly 40% of returns are due to unmet e
 The customer base is almost equally split between male and female, indicating an opportunity to tailor marketing campaigns equally to both demographics. For example, gender-inclusive branding and product positioning could boost engagement and loyalty.
 
 ## Recommendations:
-- Reduce Return Rate: Investigate and improve product descriptions and images. Implement pre-purchase Q&A, customer reviews, and clear size/spec guidance.
-- Boost Underperforming Branches: Analyze Gbagada’s customer footfall, stock availability, and marketing strategies. Consider local promotions, staff training, or rebranding.
-- Reignite YOY Growth: Launch new products, enter untapped markets, or increase online presence to drive new revenue streams.
-- Diversify Product Portfolio: Encourage upselling and bundling strategies for underperforming categories like Helmets and Tires & Tubes.
-- Capitalize on High-Profit Categories: Promote Road Bikes and Mountain Bikes more aggressively through email campaigns, social media, or discount offers.
-- Implement Customer Segmentation Strategy: Since gender-based contribution is balanced, segment marketing campaigns by behavior, location, and category interest rather than just gender.
+- #### Reduce Return Rate:
+Investigate and improve product descriptions and images. Implement pre-purchase Q&A, customer reviews, and clear size/spec guidance.
+- #### Boost Underperforming Branches:
+Analyze Gbagada’s customer footfall, stock availability, and marketing strategies. Consider local promotions, staff training, or rebranding.
+- #### Reignite YOY Growth:
+Launch new products, enter untapped markets, or increase online presence to drive new revenue streams.
+- #### Diversify Product Portfolio:
+Encourage upselling and bundling strategies for underperforming categories like Helmets and Tires & Tubes.
+- #### Capitalize on High-Profit Categories:
+Promote Road Bikes and Mountain Bikes more aggressively through email campaigns, social media, or discount offers.
+- #### Implement Customer Segmentation Strategy:
+Since gender-based contribution is balanced, segment marketing campaigns by behavior, location, and category interest rather than just gender.
 
 
 
