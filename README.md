@@ -48,7 +48,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of sales p
 -  Profit increases steadily from January to June, dips from July to September, then rises sharply again toward December.
 #### Year-over-Year (YoY)
 - Profit increased consistently from 2016 to 2018, but YoY growth has declined, signaling a possible plateau or slowdown in growth.
-### Key Insight
+#### Key Insight
 - While profit has increased overall, the recent drop in YoY growth may suggest market saturation, operational inefficiencies, or emerging competition.
   
 ### Which branches, products, and categories are generating the highest profits?
@@ -63,13 +63,13 @@ This interactive Power BI dashboard provides a comprehensive analysis of sales p
 - Road Bikes: ₦5,537,014
 - Mountain Bikes: ₦4,513,624
 - These two dominate overall profit.
-### Key Insight:
+#### Key Insight:
 Ibadan is the top-performing branch; Mountain-200 bikes and Road/Mountain bikes are the most profitable products and categories—valuable for inventory and sales prioritization.
 
 ### What does our month-over-month and year-over-year profit growth look like, and are there any noticeable patterns or concerns?
 - MoM Trend: Steady profit growth until June, followed by a mid-year dip, and a strong recovery starting October.
 - YOY Trend: Profit rose from ₦1M (2016) to over ₦4M (2018), but YoY growth is now declining.
-### Concern:
+#### Concern:
 Despite strong initail growth, the decline in YoY growth (as visualized by the downward trend line) suggests slowing momentum that needs attention and this is possibly showing a decline in market expansion or internal inefficiencies.
 
 ### How many orders are we receiving over time, and what are our return rates? What do these figures suggest about customer satisfaction?
@@ -85,13 +85,13 @@ Despite strong initail growth, the decline in YoY growth (as visualized by the d
 - Wrong product: 27.92%
 - Delays: 16.69%
 - Defective products: 15.81%
-### Key Insight:
+#### Key Insight:
 Return rate is relatively low (3%), but nearly 40% of returns are due to unmet expectations, and over a quarter due to wrong products. This may reflect gaps in customer communication or product descriptions, indicating areas to improve customer satisfaction.
 
 ### Who are our customers in terms of demographics, and how can we use this information to improve our marketing and sales strategies?
 - Total Customers: 18,484
 - Customer Gender Split: Female: 50.48% & Male: 49.52%
-### Key Insight:
+#### Key Insight:
 The customer base is almost equally split between male and female, indicating an opportunity to tailor marketing campaigns equally to both demographics. For example, gender-inclusive branding and product positioning could boost engagement and loyalty.
 
 ## Recommendations:
